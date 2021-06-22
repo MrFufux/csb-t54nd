@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "https://.github.io/csb-t54nd/static/css/main.779edf6f.chunk.css",
-    "main.js": "https://.github.io/csb-t54nd/static/js/main.edf7464e.chunk.js",
-    "main.js.map": "https://.github.io/csb-t54nd/static/js/main.edf7464e.chunk.js.map",
-    "runtime-main.js": "https://.github.io/csb-t54nd/static/js/runtime-main.d6a7d13f.js",
-    "runtime-main.js.map": "https://.github.io/csb-t54nd/static/js/runtime-main.d6a7d13f.js.map",
-    "static/js/2.a826c5c2.chunk.js": "https://.github.io/csb-t54nd/static/js/2.a826c5c2.chunk.js",
-    "static/js/2.a826c5c2.chunk.js.map": "https://.github.io/csb-t54nd/static/js/2.a826c5c2.chunk.js.map",
-    "index.html": "https://.github.io/csb-t54nd/index.html",
-    "precache-manifest.d8b0532d036f3e9caf67aac13f4163b5.js": "https://.github.io/csb-t54nd/precache-manifest.d8b0532d036f3e9caf67aac13f4163b5.js",
-    "service-worker.js": "https://.github.io/csb-t54nd/service-worker.js",
-    "static/css/main.779edf6f.chunk.css.map": "https://.github.io/csb-t54nd/static/css/main.779edf6f.chunk.css.map",
-    "static/js/2.a826c5c2.chunk.js.LICENSE.txt": "https://.github.io/csb-t54nd/static/js/2.a826c5c2.chunk.js.LICENSE.txt"
+    "main.css": "https://mrfufux.github.io/csb-t54nd/static/css/main.779edf6f.chunk.css",
+    "main.js": "https://mrfufux.github.io/csb-t54nd/static/js/main.08259caf.chunk.js",
+    "main.js.map": "https://mrfufux.github.io/csb-t54nd/static/js/main.08259caf.chunk.js.map",
+    "runtime-main.js": "https://mrfufux.github.io/csb-t54nd/static/js/runtime-main.fbaf5a2c.js",
+    "runtime-main.js.map": "https://mrfufux.github.io/csb-t54nd/static/js/runtime-main.fbaf5a2c.js.map",
+    "static/js/2.a826c5c2.chunk.js": "https://mrfufux.github.io/csb-t54nd/static/js/2.a826c5c2.chunk.js",
+    "static/js/2.a826c5c2.chunk.js.map": "https://mrfufux.github.io/csb-t54nd/static/js/2.a826c5c2.chunk.js.map",
+    "index.html": "https://mrfufux.github.io/csb-t54nd/index.html",
+    "precache-manifest.47fffb989db4b44176597a69d57fb619.js": "https://mrfufux.github.io/csb-t54nd/precache-manifest.47fffb989db4b44176597a69d57fb619.js",
+    "service-worker.js": "https://mrfufux.github.io/csb-t54nd/service-worker.js",
+    "static/css/main.779edf6f.chunk.css.map": "https://mrfufux.github.io/csb-t54nd/static/css/main.779edf6f.chunk.css.map",
+    "static/js/2.a826c5c2.chunk.js.LICENSE.txt": "https://mrfufux.github.io/csb-t54nd/static/js/2.a826c5c2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d6a7d13f.js",
+    "static/js/runtime-main.fbaf5a2c.js",
     "static/js/2.a826c5c2.chunk.js",
     "static/css/main.779edf6f.chunk.css",
-    "static/js/main.edf7464e.chunk.js"
+    "static/js/main.08259caf.chunk.js"
   ]
 }
